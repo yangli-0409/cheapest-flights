@@ -53,9 +53,9 @@
       },
       "Delta": {
         "currency": "CNY",
-        "fetch_date": "2026-11-14",
+        "fetch_date": "2026-11-16",
         "flight_no": "",
-        "price": 5335,
+        "price": 3967,
         "source": "fast_flights",
         "stops": 1
       },
@@ -215,8 +215,8 @@
       }
     }
   },
-  "generated_at": "2026-11-15T14:45:17+08:00",
-  "latest_fetch_date": "2026-11-15",
+  "generated_at": "2026-11-16T14:44:20+08:00",
+  "latest_fetch_date": "2026-11-16",
   "route": "yul-hnd",
   "sources": [
     "fast_flights",
