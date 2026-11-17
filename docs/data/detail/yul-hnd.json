@@ -53,9 +53,9 @@
       },
       "Delta": {
         "currency": "CNY",
-        "fetch_date": "2026-11-16",
+        "fetch_date": "2026-11-17",
         "flight_no": "",
-        "price": 3967,
+        "price": 3917,
         "source": "fast_flights",
         "stops": 1
       },
@@ -151,10 +151,10 @@
       },
       "Delta": {
         "currency": "CNY",
-        "fetch_date": "2026-10-29",
-        "flight_no": "DL",
-        "price": 6194,
-        "source": "skyscanner",
+        "fetch_date": "2026-11-17",
+        "flight_no": "",
+        "price": 5947,
+        "source": "fast_flights",
         "stops": 1
       },
       "EVA Air": {
@@ -215,8 +215,8 @@
       }
     }
   },
-  "generated_at": "2026-11-16T14:44:20+08:00",
-  "latest_fetch_date": "2026-11-16",
+  "generated_at": "2026-11-17T16:03:52+08:00",
+  "latest_fetch_date": "2026-11-17",
   "route": "yul-hnd",
   "sources": [
     "fast_flights",
