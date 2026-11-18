@@ -53,9 +53,9 @@
       },
       "Delta, Korean Air": {
         "currency": "CNY",
-        "fetch_date": "2026-11-17",
+        "fetch_date": "2026-11-18",
         "flight_no": "",
-        "price": 5378,
+        "price": 5371,
         "source": "fast_flights",
         "stops": 2
       },
@@ -199,8 +199,8 @@
       }
     }
   },
-  "generated_at": "2026-11-17T16:03:52+08:00",
-  "latest_fetch_date": "2026-11-17",
+  "generated_at": "2026-11-18T15:40:28+08:00",
+  "latest_fetch_date": "2026-11-18",
   "route": "yul-nrt",
   "sources": [
     "fast_flights",
