@@ -35,6 +35,14 @@
         "source": "skyscanner",
         "stops": 3
       },
+      "Air Canada, ANA": {
+        "currency": "CNY",
+        "fetch_date": "2026-11-19",
+        "flight_no": "",
+        "price": 3665,
+        "source": "fast_flights",
+        "stops": 1
+      },
       "Air Transat": {
         "currency": "CNY",
         "fetch_date": "2026-11-09",
@@ -151,9 +159,9 @@
       },
       "Delta": {
         "currency": "CNY",
-        "fetch_date": "2026-11-18",
+        "fetch_date": "2026-11-19",
         "flight_no": "",
-        "price": 5940,
+        "price": 5314,
         "source": "fast_flights",
         "stops": 1
       },
@@ -215,8 +223,8 @@
       }
     }
   },
-  "generated_at": "2026-11-18T15:40:28+08:00",
-  "latest_fetch_date": "2026-11-18",
+  "generated_at": "2026-11-19T15:36:46+08:00",
+  "latest_fetch_date": "2026-11-19",
   "route": "yul-hnd",
   "sources": [
     "fast_flights",
