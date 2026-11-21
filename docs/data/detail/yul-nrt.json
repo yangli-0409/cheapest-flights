@@ -35,6 +35,14 @@
         "source": "skyscanner",
         "stops": 3
       },
+      "Air Canada, JAL": {
+        "currency": "CNY",
+        "fetch_date": "2026-11-21",
+        "flight_no": "",
+        "price": 6530,
+        "source": "fast_flights",
+        "stops": 1
+      },
       "Air Transat": {
         "currency": "CNY",
         "fetch_date": "2026-10-16",
@@ -199,8 +207,8 @@
       }
     }
   },
-  "generated_at": "2026-11-20T15:29:33+08:00",
-  "latest_fetch_date": "2026-11-20",
+  "generated_at": "2026-11-21T15:22:45+08:00",
+  "latest_fetch_date": "2026-11-21",
   "route": "yul-nrt",
   "sources": [
     "fast_flights",
