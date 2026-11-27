@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T16:32:54+08:00",
+  "generated_at": "2026-11-27T16:47:05+08:00",
   "meta": {
     "run_stats": {
-      "fetched_count": 972,
+      "fetched_count": 1000,
       "routes_failed": 0,
       "routes_ok": 2,
       "routes_total": 2,
-      "run_date": "2026-11-26"
+      "run_date": "2026-11-27"
     },
     "serpapi_remaining_quota": 240
   },
@@ -23,12 +23,12 @@
             "price": 3665
           },
           "latest": {
-            "airline": "Delta",
+            "airline": "Air Canada, ANA",
             "currency": "CNY",
-            "depart_time": "06:00",
-            "fetch_date": "2026-11-26",
+            "depart_time": "08:45",
+            "fetch_date": "2026-11-27",
             "flight_no": "",
-            "price": 5357
+            "price": 3686
           },
           "series": [
             {
@@ -240,6 +240,11 @@
               "currency": "CNY",
               "fetch_date": "2026-11-26",
               "price": 5357
+            },
+            {
+              "currency": "CNY",
+              "fetch_date": "2026-11-27",
+              "price": 3686
             }
           ]
         },
@@ -253,12 +258,12 @@
             "price": 3694
           },
           "latest": {
-            "airline": "Delta",
+            "airline": "Air Canada",
             "currency": "CNY",
-            "depart_time": "06:00",
-            "fetch_date": "2026-11-26",
+            "depart_time": "21:20",
+            "fetch_date": "2026-11-27",
             "flight_no": "",
-            "price": 5357
+            "price": 4284
           },
           "series": [
             {
@@ -470,6 +475,11 @@
               "currency": "CNY",
               "fetch_date": "2026-11-26",
               "price": 5357
+            },
+            {
+              "currency": "CNY",
+              "fetch_date": "2026-11-27",
+              "price": 4284
             }
           ]
         }
@@ -487,12 +497,12 @@
             "price": 3658
           },
           "latest": {
-            "airline": "Air Canada, JAL",
+            "airline": "Air Canada",
             "currency": "CNY",
-            "depart_time": "08:45",
-            "fetch_date": "2026-11-26",
+            "depart_time": "12:40",
+            "fetch_date": "2026-11-27",
             "flight_no": "",
-            "price": 6595
+            "price": 4781
           },
           "series": [
             {
@@ -694,6 +704,11 @@
               "currency": "CNY",
               "fetch_date": "2026-11-26",
               "price": 6595
+            },
+            {
+              "currency": "CNY",
+              "fetch_date": "2026-11-27",
+              "price": 4781
             }
           ]
         },
@@ -707,12 +722,12 @@
             "price": 3841
           },
           "latest": {
-            "airline": "Qatar Airways",
+            "airline": "Air Canada",
             "currency": "CNY",
-            "depart_time": "21:05",
-            "fetch_date": "2026-11-26",
+            "depart_time": "07:30",
+            "fetch_date": "2026-11-27",
             "flight_no": "",
-            "price": 8280
+            "price": 7769
           },
           "series": [
             {
@@ -929,6 +944,11 @@
               "currency": "CNY",
               "fetch_date": "2026-11-26",
               "price": 8280
+            },
+            {
+              "currency": "CNY",
+              "fetch_date": "2026-11-27",
+              "price": 7769
             }
           ]
         }
